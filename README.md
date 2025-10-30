@@ -19,6 +19,37 @@
 ⚙️ I love solving complex backend challenges — concurrency, scalability, and clean architecture.
 
 ---
+### 🏢 Software Developer – Credit Card Management System (Parent Company-Wipro Limited,Client-Charles Schwab)
+**Aug 2023 – Oct 2025**
+
+- Designed and implemented **Spring Boot microservices** for account management, billing, and transactions.  
+- Secured REST APIs with **JWT/OAuth2** and handled **inter-service communication via Kafka**.  
+- Integrated **Resilience4j** for fault tolerance and **Swagger/OpenAPI** for documentation.  
+- Deployed services via **Jenkins CI/CD pipelines** on **Kubernetes** clusters.  
+- Enhanced DB query performance on **SQL Server** and **MongoDB**, supporting 5K+ daily users.  
+- Added compliance features including **encryption, audit logging, and API versioning**.
+
+---
+
+### 🏢 Java Developer L1 – Gas Pipeline Data Management System (Parent Company-Wipro Limited, Client- Xoserve Limited)
+**Sept 2022 – July 2023**
+
+- Built **microservices** for incident reporting and maintenance scheduling using **Spring Boot**.  
+- Implemented **event-driven architecture** with **Kafka topics** for real-time updates.  
+- Integrated **MongoDB + SQL Server** dual-database model for operational + analytical data.  
+- Deployed containerized services using **Docker & Kubernetes**, automated through **Jenkins**.  
+- Secured internal APIs with **Spring Security** and centralized authentication via **API Gateway**.
+
+---
+
+## 🚀 Projects (Client Work)
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 💳 **Credit Card Management System** | Enterprise-grade credit card platform for account, billing & transaction management; built with microservices and event-driven design. | Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Jenkins • Kubernetes |
+| 🔧 **Gas Pipeline Data Management System** | Pipeline monitoring, maintenance scheduling & incident tracking platform for energy client; designed for reliability & scalability. | Spring Boot • Kafka • MongoDB • Resilience4j • CI/CD • Docker • Kubernetes |
+
+---
 
 ## 🧰 Tech Stack
 
