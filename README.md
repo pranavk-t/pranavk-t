@@ -19,7 +19,7 @@
 ⚙️ I love solving complex backend challenges — concurrency, scalability, and clean architecture.
 
 ---
-### 🏢 Software Developer – Credit Card Management System (Parent Company-Wipro Limited,Client-Charles Schwab)
+### 🏢 Software Developer – Credit Card Management System (Parent Company-Wipro Limited,Client-Fintech Company)
 **Aug 2023 – Oct 2025**
 
 - Designed and implemented **Spring Boot microservices** for account management, billing, and transactions.  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🏢 Java Developer L1 – Gas Pipeline Data Management System (Parent Company-Wipro Limited, Client- Xoserve Limited)
+### 🏢 Java Developer L1 – Gas Pipeline Data Management System (Parent Company-Wipro Limited, Client- An energy sector company)
 **Sept 2022 – July 2023**
 
 - Built **microservices** for incident reporting and maintenance scheduling using **Spring Boot**.  
