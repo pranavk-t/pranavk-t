@@ -88,25 +88,6 @@
 | [🛞 SmartFleet](https://github.com/jagleet/smartfleet) | Enterprise-grade Fleet Management System with real-time tracking, trip optimization, and maintenance scheduling. Designed with scalable microservices, Kafka event streams, and fault-tolerance using Resilience4j. | Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Kubernetes • Jenkins |
 
 ---
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=pranavk-t&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180px" alt="Top Contributions" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavk-t&bg_color=0d1117&color=00CFFF&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavk-t&theme=tokyonight" alt="GitHub Profile Summary" />
-</div>
-
----
 
 
 ## 🧩 My Focus Areas
