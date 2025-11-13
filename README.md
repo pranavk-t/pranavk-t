@@ -3,20 +3,20 @@
 <div align="center">
 
 # 👋 Hi, I'm Pranav Thakur  
-### 🚀 Backend Developer | Java • Spring Boot • Microservices • Kafka • Cloud & CI/CD  
+### 🚀 Full-Stack Developer | Java • Spring Boot • Angular • Microservices • Kafka • DevOps  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Angular+%7C+TypeScript+%7C+HTML+CSS;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ## 🧠 About Me
-💼 **Java Backend Developer with 3 years of professional experience** in building scalable, distributed systems.
-💻 Passionate backend engineer focused on **designing scalable, fault-tolerant microservices**.  
-🧩 Experienced in **Spring Boot, Kafka, Resilience4j, Docker, Kubernetes, Jenkins**, and **Cloud deployments**.  
-📊 Strong in **SQL Server + MongoDB**, performance optimization, and distributed systems design.  
-⚙️ I love solving complex backend challenges — concurrency, scalability, and clean architecture.
+💼 **Full-Stack Developer with 3 years of experience working across Java, Angular, Node.js, and Go** building scalable, distributed, production-ready systems.  
+💻 I specialize in **Angular for frontend, and Node.js/Go for backend services when required** and **Spring Boot microservices for backend**, creating end-to-end enterprise applications.  
+🧩 Skilled in **REST APIs, event-driven architecture, Resilience4j**, and performance-optimized backend services.  
+🎨 Strong understanding of **UI development** with Angular, TypeScript, RxJS, component design, and clean reusable architecture.  
+⚙️ Passionate about building **fault-tolerant microservices**, clean architecture, and smooth CI/CD pipelines.
 
 ---
 
@@ -24,19 +24,27 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 💳 **Credit Card Management System** | Enterprise-grade credit card platform for account, billing & transaction management; built with microservices and event-driven design. | Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Jenkins • Kubernetes |
-| 🔧 **Gas Pipeline Data Management System** | Pipeline monitoring, maintenance scheduling & incident tracking platform for energy client; designed for reliability & scalability. | Spring Boot • Kafka • MongoDB • Resilience4j • CI/CD • Docker • Kubernetes |
+| 💳 **Credit Card Management System** | Full-stack enterprise platform for account, billing & transaction management using Angular for the UI and Spring Boot microservices with Kafka. | Angular • Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Jenkins • Kubernetes |
+| 🔧 **Gas Pipeline Data Management System** | Monitoring, maintenance scheduling & incident management system with Angular frontend and Spring Boot services. | Angular • Spring Boot • Kafka • MongoDB • Docker • Kubernetes • CI/CD |
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-**Backend & Frameworks:**  
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -53,9 +61,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -63,17 +71,16 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [🛞 SmartFleet](https://github.com/pranavk-t/smartfleet) | Enterprise-grade Fleet Management System with real-time tracking, trip optimization, and maintenance scheduling. Designed with scalable microservices, Kafka event streams, and fault-tolerance using Resilience4j. | Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Kubernetes • Jenkins |
+| [🛞 SmartFleet](https://github.com/pranavk-t/smartfleet) | Full-stack Fleet Management System with Angular UI, real-time tracking, trip management, and distributed microservices. Uses Kafka streams and Resilience4j for fault-tolerance. | Angular • Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Kubernetes • Jenkins |
 
 ---
 
-
 ## 🧩 My Focus Areas
-- Scalable & distributed backend systems  
-- API design & performance tuning  
-- Event-driven microservice communication (Kafka)  
-- Cloud-native CI/CD pipelines  
-- Monitoring, fault-tolerance, and resilience  
+- Full-stack development (Angular + Spring Boot)  
+- Scalable microservice architectures  
+- Event-driven systems with Kafka  
+- UI/UX component design & clean architecture  
+- CI/CD, cloud-native deployments, automated pipelines  
 
 ---
 
@@ -95,6 +102,7 @@
 
 <div align="center">
   
-💡 *“Build systems that scale — and code that lasts.”*
+💡 *“Build systems that scale — and interfaces that feel natural.”*
 
 </div>
+
