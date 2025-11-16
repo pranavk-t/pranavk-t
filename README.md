@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 About Me
-💼 **Full-Stack Developer with 3 years of experience working across Java, Angular, Node.js, and Go** building scalable, distributed, production-ready systems.  
+💼 **Full-Stack Developer with 3 years of experience working across Java, Angular, Node.js, and Python** building scalable, distributed, production-ready systems.  
 💻 I specialize in **Angular for frontend, and Node.js/Go for backend services when required** and **Spring Boot microservices for backend**, creating end-to-end enterprise applications.  
 🧩 Skilled in **REST APIs, event-driven architecture, Resilience4j**, and performance-optimized backend services.  
 🎨 Strong understanding of **UI development** with Angular, TypeScript, RxJS, component design, and clean reusable architecture.  
