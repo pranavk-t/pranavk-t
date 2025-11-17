@@ -70,7 +70,6 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [🛞 SmartFleet](https://github.com/pranavk-t/smartfleet) | Full-stack Fleet Management System with Angular UI, real-time tracking, trip management, and distributed microservices. Uses Kafka streams and Resilience4j for fault-tolerance. | Angular • Spring Boot • Kafka • Resilience4j • SQL Server • MongoDB • Docker • Kubernetes • Jenkins |
 
 ---
 
