@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Pranav Thakur  
-### 🚀 Back End Developer | Java • Spring Boot • Angular • Microservices • Kafka • DevOps  
+### 🚀 Back End Developer | Java • Spring Boot • Microservices • Kafka • DevOps  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
 
