@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Pranav Thakur  
-### 🚀 Full-Stack Developer | Java • Spring Boot • Angular • Microservices • Kafka • DevOps  
+### 🚀 Back End Developer | Java • Spring Boot • Angular • Microservices • Kafka • DevOps  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Angular+%7C+TypeScript+%7C+HTML+CSS;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
 
@@ -12,8 +12,8 @@
 ---
 
 ## 🧠 About Me
-💼 **Full-Stack Developer with 3 years of experience working across Java, Angular, Node.js, and Python** building scalable, distributed, production-ready systems.  
-💻 I specialize in **Angular for frontend, and Node.js/Go for backend services when required** and **Spring Boot microservices for backend**, creating end-to-end enterprise applications.  
+💼 **Backend Developer with 3 years of experience working across Java, Angular, Node.js, and Python** building scalable, distributed, production-ready systems.  
+💻 I specialize in **Spring Boot microservices for backend**, creating end-to-end enterprise applications.  
 🧩 Skilled in **REST APIs, event-driven architecture, Resilience4j**, and performance-optimized backend services.  
 🎨 Strong understanding of **UI development** with Angular, TypeScript, RxJS, component design, and clean reusable architecture.  
 ⚙️ Passionate about building **fault-tolerant microservices**, clean architecture, and smooth CI/CD pipelines.
@@ -29,21 +29,9 @@
 
 ---
 
-## 🧰 Tech Stack
-
-**Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-
+## 🧰 Tech Stack 
 **Backend:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -74,7 +62,7 @@
 ---
 
 ## 🧩 My Focus Areas
-- Full-stack development (Angular + Spring Boot)  
+- Backend development (Spring Boot)  
 - Scalable microservice architectures  
 - Event-driven systems with Kafka  
 - UI/UX component design & clean architecture  
