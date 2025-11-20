@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Pranav Thakur  
 ### 🚀 Back End Developer | Java • Spring Boot • Angular • Microservices • Kafka • DevOps  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Angular+%7C+TypeScript+%7C+HTML+CSS;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
 
 </div>
 
