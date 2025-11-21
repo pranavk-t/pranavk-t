@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 About Me
-💼 **Backend Developer with 3 years of experience working across Java, Angular, Node.js, and Python** building scalable, distributed, production-ready systems.  
+💼 **Backend Developer with 3 years of experience working across Java, Spring Boot, and Apache Kafka** building scalable, distributed, production-ready systems.  
 💻 I specialize in **Spring Boot microservices for backend**, creating end-to-end enterprise applications.  
 🧩 Skilled in **REST APIs, event-driven architecture, Resilience4j**, and performance-optimized backend services.  
 🎨 Strong understanding of **UI development** with Angular, TypeScript, RxJS, component design, and clean reusable architecture.  
