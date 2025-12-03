@@ -1,4 +1,9 @@
 <!-- PROFILE README.md -->
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/107095644?s=400&u=30cb86976c2580aad7c5e342b77c08dbe59f16ad&v=4" width="160" height="160" style="border-radius: 50%; border: 3px solid #00CFFF;" />
+
 # 👋 Hi, I'm Pranav Thakur  
 ### 🚀 Backend Engineer | Java • Spring Boot • Microservices • AI Integrations  
 
