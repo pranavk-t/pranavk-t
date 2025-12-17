@@ -6,6 +6,7 @@
 # 👋 Hi, I'm Pranav Thakur  
 ### 🚀 Backend Engineer | Java • Spring Boot • Microservices • AI Integrations  
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Spring+Boot+%7C+Microservices+Architect;Kafka+%7C+RabbitMQ+%7C+gRPC;AI+Integrations+%7C+RAG+%7C+LangChain;Cloud+%7C+DevOps+%7C+Distributed+Systems" />
 
 </div>
 
