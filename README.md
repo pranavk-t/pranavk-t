@@ -83,11 +83,10 @@ Currently leveling up with **AI engineering**, RAG pipelines, vector search, and
 
 ## 🌟 Highlighted Projects (Coming Soon)
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧠 **AI-Augmented Microservices** | RAG + LangChain integrated with Spring Boot for intelligent backend workflows. | Spring Boot • FastAPI • LangChain • Chroma • Kafka |
-| 🔄 **Event-Driven Orchestration Engine** | Hybrid messaging system combining Kafka + RabbitMQ + gRPC. | Spring Boot • gRPC • RabbitMQ • Kafka • Neo4j |
-| 📡 **Live Notification & Payment Hub** | Stripe + Twilio + WebSockets + Nginx + APM. | Spring Boot • WebSockets • Stripe • Twilio • Nginx |
+| Project                                                                                               | Description                                                                                                                                                                        | Tech Stack                                        |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| ⚽ **Football Archive** <br/>🔗 GitHub: `https://github.com/pranavk-t/footballarchive`     | Backend system to manage teams, players, fixtures, live match events, and league standings. Implemented role-based access, REST APIs, and optimized queries for match statistics.  | Spring Boot • Spring Data JPA • MySQL • REST APIs |
+| 💳 **Wallet Transaction System** <br/>🔗 GitHub: `https://github.com/pranavk-t/wallet-system` | Transaction-safe wallet system supporting admin credits/debits and client orders. Ensured consistency using DB transactions, ledger entries, and external fulfillment integration. | Spring Boot • JPA • MySQL • REST APIs             |
 
 ---
 
