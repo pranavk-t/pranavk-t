@@ -85,8 +85,10 @@ Currently leveling up with **AI engineering**, RAG pipelines, vector search, and
 
 | Project                                                                                               | Description                                                                                                                                                                        | Tech Stack                                        |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| ⚽ **Football Archive** <br/>🔗 GitHub: `https://github.com/pranavk-t/footballarchive`     | Backend system to manage teams, players, fixtures, live match events, and league standings. Implemented role-based access, REST APIs, and optimized queries for match statistics.  | Spring Boot • Spring Data JPA • MySQL • REST APIs |
-| 💳 **Wallet Transaction System** <br/>🔗 GitHub: `https://github.com/pranavk-t/wallet-system` | Transaction-safe wallet system supporting admin credits/debits and client orders. Ensured consistency using DB transactions, ledger entries, and external fulfillment integration. | Spring Boot • JPA • MySQL • REST APIs             |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| ⚽ **[Football Archive](https://github.com/pranavk-t/footballarchive)** | Backend system to manage teams, players, fixtures, live match events, and league standings. Implemented role-based access, REST APIs, and optimized queries for match statistics. | Spring Boot • Spring Data JPA • MySQL • REST APIs |
+| 💳 **[Wallet Transaction System](https://github.com/pranavk-t/wallet-system)** | Transaction-safe wallet system supporting admin credits/debits and client orders. Ensured consistency using DB transactions, ledger entries, and external fulfillment integration. | Spring Boot • JPA • MySQL • REST APIs |
 
 ---
 
