@@ -23,7 +23,6 @@ Currently leveling up with **AI engineering**, RAG pipelines, vector search, and
 ## 🚀 Professional Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
 | 💳 **Credit Card Management System** | Platform for accounts, billing, and transactions with optimized Kafka-based workflows. | Spring Boot • Kafka • SQL Server • MongoDB • Angular • Docker • Jenkins • K8s |
 | 🔧 **Gas Pipeline Data Management System** | Real-time monitoring, scheduling, and incident tracking microservices. | Spring Boot • Kafka • MongoDB • Docker • K8s • CI/CD |
 
@@ -85,8 +84,6 @@ Currently leveling up with **AI engineering**, RAG pipelines, vector search, and
 
 | Project                                                                                               | Description                                                                                                                                                                        | Tech Stack                                        |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
 | ⚽ **[Football Archive](https://github.com/pranavk-t/footballarchive)** | Backend system to manage teams, players, fixtures, live match events, and league standings. Implemented role-based access, REST APIs, and optimized queries for match statistics. | Spring Boot • Spring Data JPA • MySQL • REST APIs |
 | 💳 **[Wallet Transaction System](https://github.com/pranavk-t/wallet-system)** | Transaction-safe wallet system supporting admin credits/debits and client orders. Ensured consistency using DB transactions, ledger entries, and external fulfillment integration. | Spring Boot • JPA • MySQL • REST APIs |
 
