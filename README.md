@@ -86,7 +86,7 @@ Currently leveling up with **AI engineering**, RAG pipelines, vector search, and
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | ⚽ **[Football Archive](https://github.com/pranavk-t/footballarchive)** | Backend system to manage teams, players, fixtures, live match events, and league standings. Implemented role-based access, REST APIs, and optimized queries for match statistics. | Spring Boot • Spring Data JPA • MySQL • REST APIs |
 | 💳 **[Wallet Transaction System](https://github.com/pranavk-t/wallet-system)** | Transaction-safe wallet system supporting admin credits/debits and client orders. Ensured consistency using DB transactions, ledger entries, and external fulfillment integration. | Spring Boot • JPA • MySQL • REST APIs |
-🏟️ **[Sports Venue Booking System](https://github.com/pranavk-t/sports-booking-system)** | Backend service for sports venue and time-slot booking with conflict prevention. Implemented slot availability checks, booking/cancellation workflows, and transactional consistency. | Spring Boot • Spring Data JPA • MySQL • REST APIs • Docker |
+🏟️ **[Sports Venue Booking System](https://github.com/pranavk-t/Sports-Venue-Booking-System)** | Backend service for sports venue and time-slot booking with conflict prevention. Implemented slot availability checks, booking/cancellation workflows, and transactional consistency. | Spring Boot • Spring Data JPA • MySQL • REST APIs • Docker |
 
 ---
 
