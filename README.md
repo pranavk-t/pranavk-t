@@ -35,6 +35,8 @@ Currently leveling up with **AI engineering**, RAG pipelines, vector search, and
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-3DDC84?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **AI & Modern Backends**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
