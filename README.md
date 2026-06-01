@@ -1,115 +1,187 @@
-<!-- PROFILE README.md -->
-
+````md
 <div align="center">
 
+# 👋 Hey, I'm Pranav
 
-# 👋 Hi, I'm Pranav Thakur  
-### 🚀 Backend Engineer |  Java • Spring Boot • Python • Django • FastAPI • Microservices • AI Integrations  
+### Backend Engineer • Fintech Systems • AI Infrastructure
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Spring+Boot+%7C+Microservices+Architect;Kafka+%7C+RabbitMQ+%7C+gRPC;AI+Integrations+%7C+RAG+%7C+LangChain;Cloud+%7C+DevOps+%7C+Distributed+Systems" />
+Building enterprise-grade backend systems, scalable APIs, distributed systems, and AI-powered applications.
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=3.5%2B+Years+in+Backend+Engineering;Spring+Boot+%7C+Microservices+%7C+Kafka;Fintech+Backend+Systems;Python+%7C+AI+%7C+NLP+%7C+LLMs;RAG+Pipelines+%7C+Chatbots+%7C+Fine-Tuning;Docker+%7C+Kubernetes+%7C+CI%2FCD" />
 
----
-
-## 🧠 About Me
-
-Backend engineer with **3 years of experience** building resilient, distributed, and high-performance backend systems.  
-I specialize in **Spring Boot microservices**, streaming pipelines, and scalable architectures.  
-Currently leveling up with **AI engineering**, RAG pipelines, vector search, and hybrid-stack systems with Neo4j + SQL + Mongo.
-
----
-
-## 🚀 Professional Projects
-
-| Project | Description | Tech Stack |
-| 💳 **Credit Card Management System** | Platform for accounts, billing, and transactions with optimized Kafka-based workflows. | Spring Boot • Kafka • SQL Server • MongoDB • Angular • Docker • Jenkins • K8s |
-| 🔧 **Gas Pipeline Data Management System** | Real-time monitoring, scheduling, and incident tracking microservices. | Spring Boot • Kafka • MongoDB • Docker • K8s • CI/CD |
-
----
-
-## 🧰 Tech Stack (Current + Expanding)
-
-### **Backend & Architecture**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-3DDC84?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **AI & Modern Backends**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-1976D2?style=for-the-badge)
-
-### **Messaging & Streaming**
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-2C3E50?style=for-the-badge)
-
-### **Databases**
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-
-### **Cloud, DevOps & Infra**
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge)
-
-### **APIs & Integrations**
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)
-
----
-
-## 🔥 Focus Areas
-
-- Spring Boot microservices architecture  
-- Kafka, RabbitMQ, and event orchestration  
-- High-performance distributed communication with gRPC  
-- Neo4j graph modeling & hybrid database design  
-- AI-powered systems using LangChain + FastAPI + RAG  
-- Real-time features using WebSockets  
-- Modern DevOps with Docker, Kubernetes, CI/CD  
-- API Gateway, load balancing, observability  
-
----
-
-## 🌟 Highlighted Projects
-
-| Project                                                                                               | Description                                                                                                                                                                        | Tech Stack                                        |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| ⚽ **[Football Archive](https://github.com/pranavk-t/footballarchive)** | Backend system to manage teams, players, fixtures, live match events, and league standings. Implemented role-based access, REST APIs, and optimized queries for match statistics. | Spring Boot • Spring Data JPA • MySQL • REST APIs |
-| 💳 **[Wallet Transaction System](https://github.com/pranavk-t/wallet-system)** | Transaction-safe wallet system supporting admin credits/debits and client orders. Ensured consistency using DB transactions, ledger entries, and external fulfillment integration. | Spring Boot • JPA • MySQL • REST APIs |
-🏟️ **[Sports Venue Booking System](https://github.com/pranavk-t/Sports-Venue-Booking-System)** | Backend service for sports venue and time-slot booking with conflict prevention. Implemented slot availability checks, booking/cancellation workflows, and transactional consistency. | Spring Boot • Spring Data JPA • MySQL • REST APIs • Docker |
-
----
-
-## 🌐 Connect With Me
+<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thakur-pranav/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:pranavt12947270@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://leetcode.com/u/pranavt129">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
-  </a>
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=openjdk" />
+
+<img src="https://img.shields.io/badge/Python-AI%20%26%20ML-blue?style=for-the-badge&logo=python" />
+
+<img src="https://img.shields.io/badge/Kafka-Distributed%20Systems-black?style=for-the-badge&logo=apachekafka" />
+
+<img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes" />
+
 </p>
+
+</div>
+
+---
+
+# 🧠 About Me
+
+Backend engineer with 3.5+ years of experience building enterprise-grade backend systems in the fintech domain.
+
+Worked extensively on:
+- Spring Boot microservices
+- distributed backend architectures
+- Kafka-based event-driven systems
+- secure APIs and transaction workflows
+- high-throughput backend services
+- cloud-native backend platforms
+
+Alongside backend engineering, I actively work on:
+- AI applications
+- NLP systems
+- Retrieval-Augmented Generation (RAG)
+- chatbot systems
+- LLM integrations
+- fine-tuning workflows
+- inference APIs
+- vector retrieval systems
+
+I enjoy building systems where backend engineering meets AI infrastructure.
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+Building:
+  - Distributed AI systems
+  - Kafka-driven processing pipelines
+  - RAG applications
+  - AI inference APIs
+  - NLP-powered backend systems
+
+Exploring:
+  - LLM infrastructure
+  - Fine-tuning pipelines
+  - ML observability
+  - AI workflow orchestration
+  - Distributed tracing
+  - Vector databases
+```
+
+---
+
+# 🚧 In Progress Projects
+
+## 🧠 Distributed RAG Platform
+
+Building a production-grade retrieval platform with:
+
+- document ingestion pipelines
+- embedding workers
+- semantic retrieval
+- vector search
+- async Kafka processing
+- streaming AI responses
+
+### Stack
+
+`Python` • `FastAPI` • `Kafka` • `Redis` • `FAISS` • `MLflow`
+
+---
+
+## ⚡ AI Gateway Platform
+
+Building an inference gateway for routing and managing LLM requests.
+
+### Features
+
+- model routing
+- retries + fallback handling
+- streaming APIs
+- token accounting
+- request tracing
+
+### Stack
+
+`Spring Boot` • `FastAPI` • `Kafka` • `Redis`
+
+---
+
+## 📈 Real-Time NLP Streaming Pipeline
+
+Building streaming NLP workflows for:
+
+- sentiment analysis
+- entity extraction
+- conversational AI
+- async inference
+- real-time processing
+
+### Stack
+
+`PyTorch` • `Transformers` • `Kafka` • `FastAPI`
+
+---
+
+## 🤖 AI Chatbot Platform
+
+Building AI-powered chatbot systems with:
+
+- contextual retrieval
+- semantic search
+- RAG pipelines
+- conversation memory
+- document-based QA
+
+### Stack
+
+`LangChain` • `FastAPI` • `Transformers` • `FAISS`
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thakur-pranav/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:pranavt12947270@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/pranavt129/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  
-🔥 *“Build systems that scale. Add intelligence that adapts.”*
+
+### 🚀 Building scalable backend systems with intelligent infrastructure.
 
 </div>
+````
