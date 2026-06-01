@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # 👋 Hey, I'm Pranav
@@ -184,4 +183,4 @@ Building AI-powered chatbot systems with:
 ### 🚀 Building scalable backend systems with intelligent infrastructure.
 
 </div>
-````
+
