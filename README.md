@@ -2,24 +2,22 @@
 
 # 👋 Hey, I'm Pranav
 
-### Backend Engineer • Fintech Systems • AI Infrastructure
+### Backend Engineer • Full Stack • AI Integrations
 
-Building enterprise-grade backend systems, scalable APIs, distributed systems, and AI-powered applications.
+I write Spring Boot services, connect them to Kafka and AWS, and have been working with LLMs, RAG pipelines, and FastAPI for the past year.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=3.5%2B+Years+in+Backend+Engineering;Spring+Boot+%7C+Microservices+%7C+Kafka;Fintech+Backend+Systems;Python+%7C+AI+%7C+NLP+%7C+LLMs;RAG+Pipelines+%7C+Chatbots+%7C+Fine-Tuning;Docker+%7C+Kubernetes+%7C+CI%2FCD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=3.5%2B+Years+in+Backend+Engineering;Spring+Boot+%7C+Microservices+%7C+Kafka;Wipro+%7C+Bdiplus+%7C+Charles+Schwab;Java+%7C+Python+%7C+TypeScript+%7C+React+%7C+Angular;RAG+%7C+LLM+Integrations+%7C+FastAPI;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD" />
 
 <br/>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=openjdk" />
-
-<img src="https://img.shields.io/badge/Python-AI%20%26%20ML-blue?style=for-the-badge&logo=python" />
-
-<img src="https://img.shields.io/badge/Kafka-Distributed%20Systems-black?style=for-the-badge&logo=apachekafka" />
-
-<img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes" />
-
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-AI%20%26%20ML-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Kafka-Distributed%20Systems-black?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 </div>
@@ -28,27 +26,9 @@ Building enterprise-grade backend systems, scalable APIs, distributed systems, a
 
 # 🧠 About Me
 
-Backend engineer with 3.5+ years of experience building enterprise-grade backend systems in the fintech domain.
+I'm a backend engineer with 3.5+ years of experience. At Wipro, I was part of the team working on the Charles Schwab credit card platform, building services for billing, payments, and account management that processed millions of transactions. On the frontend side, I built shared Angular components used across the platform and have worked with React, TypeScript, and JavaScript enough to be comfortable picking up frontend work when needed. More recently at Bdiplus, I've been migrating a legacy Java application into Spring Boot microservices.
 
-Worked extensively on:
-- Spring Boot microservices
-- distributed backend architectures
-- Kafka-based event-driven systems
-- secure APIs and transaction workflows
-- high-throughput backend services
-- cloud-native backend platforms
-
-Alongside backend engineering, I actively work on:
-- AI applications
-- NLP systems
-- Retrieval-Augmented Generation (RAG)
-- chatbot systems
-- LLM integrations
-- fine-tuning workflows
-- inference APIs
-- vector retrieval systems
-
-I enjoy building systems where backend engineering meets AI infrastructure.
+Alongside the backend work, I've been working with LLMs, RAG pipelines, and FastAPI. At Bdiplus I shipped a tool that takes a Java codebase as input, analyses the service interactions, and generates flow diagrams automatically, which cut documentation time by 90%. I've been extending this further on my own, working with LangChain, FAISS, and Python to build document retrieval and question-answering systems and understand where these pipelines break under real conditions.
 
 ---
 
@@ -56,11 +36,12 @@ I enjoy building systems where backend engineering meets AI infrastructure.
 
 ```yaml
 Building:
-  - Distributed AI systems
-  - Kafka-driven processing pipelines
-  - RAG applications
-  - AI inference APIs
-  - NLP-powered backend systems
+  - Decomposing legacy systems into independently deployable Spring Boot services
+  - Event-driven pipelines using Kafka for async processing between services
+  - REST APIs secured with JWT and OAuth2
+  - AWS deployments using ECS, RDS, ElastiCache, and API Gateway
+  - LLM-based tooling for developer productivity
+  - Frontend components in Angular and React
 
 Exploring:
   - LLM infrastructure
@@ -73,83 +54,56 @@ Exploring:
 
 ---
 
-# 🚧 In Progress Projects
+# 📌 Pinned Projects
 
-## 🧠 Distributed RAG Platform
-
-Building a production-grade retrieval platform with:
-
-- document ingestion pipelines
-- embedding workers
-- semantic retrieval
-- vector search
-- async Kafka processing
-- streaming AI responses
-
-### Stack
-
-`Python` • `FastAPI` • `Kafka` • `Redis` • `FAISS` • `MLflow`
-
----
-
-## ⚡ AI Gateway Platform
-
-Building an inference gateway for routing and managing LLM requests.
-
-### Features
-
-- model routing
-- retries + fallback handling
-- streaming APIs
-- token accounting
-- request tracing
-
-### Stack
-
-`Spring Boot` • `FastAPI` • `Kafka` • `Redis`
-
----
-
-## 📈 Real-Time NLP Streaming Pipeline
-
-Building streaming NLP workflows for:
-
-- sentiment analysis
-- entity extraction
-- conversational AI
-- async inference
-- real-time processing
-
-### Stack
-
-`PyTorch` • `Transformers` • `Kafka` • `FastAPI`
-
----
-
-## 🤖 AI Chatbot Platform
-
-Building AI-powered chatbot systems with:
-
-- contextual retrieval
-- semantic search
-- RAG pipelines
-- conversation memory
-- document-based QA
-
-### Stack
-
-`LangChain` • `FastAPI` • `Transformers` • `FAISS`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pranavk-t/wallet-system">
+        <b>💳 wallet-system</b>
+      </a>
+      <br/>
+      <sub>Wallet and transaction system with atomic order creation and an append-only ledger for audit trails.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk" />
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pranavk-t/footballarchive">
+        <b>⚽ footballarchive</b>
+      </a>
+      <br/>
+      <sub>REST API for managing football match knowledge with role-based access and JPA inheritance-based polymorphic modeling.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk" />
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pranavk-t/Sports-Venue-Booking-System">
+        <b>🏟️ Sports-Venue-Booking-System</b>
+      </a>
+      <br/>
+      <sub>Venue and slot booking service with double-booking prevention, Flyway migrations, and Docker Compose setup.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pranavk-t&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk-t&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -170,7 +124,7 @@ Building AI-powered chatbot systems with:
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/pranavk-t" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -180,7 +134,6 @@ Building AI-powered chatbot systems with:
 
 <div align="center">
 
-### 🚀 Building scalable backend systems with intelligent infrastructure.
+### 🚀 Always building, always learning.
 
 </div>
-
