@@ -44,6 +44,7 @@ Building:
   - Frontend components in Angular and React
 
 Exploring:
+  - Deep Learning
   - LLM infrastructure
   - Fine-tuning pipelines
   - ML observability
@@ -99,14 +100,7 @@ Exploring:
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pranavk-t&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk-t&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 # 🌐 Connect With Me
 
